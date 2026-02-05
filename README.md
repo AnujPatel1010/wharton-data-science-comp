@@ -17,3 +17,7 @@ We are developing a data-driven solution to address the competition prompt using
 - `src/` – source code
 - `requirements.txt` – Python dependencies
 - `experiment_sheet` – experiment tracking
+
+## Experiment Tracking
+All modeling experiments are documented in our experiment log:
+https://docs.google.com/spreadsheets/d/1Wk1hahxt7OViwQ4Uhb9AJ8sgl6mDmwZGIAVEhc7-O_g/edit?gid=0#gid=0
