@@ -1,0 +1,14 @@
+{
+  "name": "Wharton WHL Competition",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  "postCreateCommand": "pip install pandas numpy scikit-learn matplotlib seaborn jupyter",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  }
+}
